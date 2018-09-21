@@ -1,0 +1,1 @@
+# MEAN (MongoDB, ExpressJS, Angular, Node.js) application completed following the tutorial at https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-1-front-end-project-setup-and-routing/
